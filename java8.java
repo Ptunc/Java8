@@ -24,6 +24,6 @@ public class java8 {
             case 4: System.out.println(a-b); break;
             default: System.out.println("yanlış karakter girdiniz.");
         }
-        
+        input.close();
     }
 }
